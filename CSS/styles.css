@@ -1,0 +1,62 @@
+:root {
+  --white-color: #ffffff;
+  --red-color: #ae1332;
+  --black-color: #000000;
+  --background-green-color: #a4cb66;
+  --background-yellow-color: #f5ce13;
+  --background-light-green-color: #a1c864;
+  --strawberry-color: #f8766b;
+  --banana-color: #edd251;
+  --watermelon-color: #9dc262;
+  --lime-color: #bfd663;
+  --apple-color: #e93f29;
+  --peach-color: #db4f4b;
+  --plum-color: #9b5366;
+  --orange-color: #f47f4c;
+  --kiwi-color: #98b37e;
+  --pop-up-color: #e03f5e;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+}
+/* general */
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+/* to remove bullet */
+.list {
+  list-style: none;
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.list {
+  list-style: none;
+}
